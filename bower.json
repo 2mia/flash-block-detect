@@ -1,0 +1,37 @@
+{
+  "name": "flash-block-detect",
+  "version": "0.0.1",
+  "authors": [
+    "Mihai Iancu <mihai@tldr.ro>"
+  ],
+  "description": "Simple library to detect flash being unavailable: not being installed, being blocked or outdated (Safari case)",
+  "main": "flash-block-detect.js",
+  "scripts": [
+    "flash-block-detect.js"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "flash",
+    "shockwave",
+    "block",
+    "outdated",
+    "safari",
+    "flashblock",
+    "detect",
+    "flash",
+    "detect",
+    "angular",
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/2mia/flash-block-detect",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
